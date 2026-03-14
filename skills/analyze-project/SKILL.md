@@ -1,4 +1,3 @@
-```markdown
 # /analyze-project — Root Cause Analyst Workflow
 
 Analyze AI-assisted coding sessions in `~/.gemini/antigravity/brain/` and produce a report that explains not just **what happened**, but **why it happened**, **who/what caused it**, and **what should change next time**.
@@ -424,4 +423,3 @@ The workflow must produce:
 7. non-obvious findings
 
 Prefer explicit uncertainty over fake precision.
-```
